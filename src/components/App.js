@@ -1,4 +1,4 @@
-
+import React from "react";
 const App = () => {
   const relatives = ["Ramesh", "Suresh", "Priya", "Anita"];
 
